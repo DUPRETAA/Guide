@@ -1,0 +1,84 @@
+D:\учеба\Елизавета\guid add\guid add\obj\Debug\guid add.csproj.AssemblyReference.cache
+D:\учеба\Елизавета\guid add\guid add\obj\Debug\guid add.csproj.SuggestedBindingRedirects.cache
+D:\учеба\Елизавета\guid add\guid add\obj\Debug\MainWindow.g.cs
+D:\учеба\Елизавета\guid add\guid add\obj\Debug\App.g.cs
+D:\учеба\Елизавета\guid add\guid add\obj\Debug\guid add_MarkupCompile.cache
+D:\учеба\Елизавета\guid add\guid add\obj\Debug\guid add_MarkupCompile.lref
+D:\учеба\Елизавета\guid add\guid add\bin\Debug\guid add.exe.config
+D:\учеба\Елизавета\guid add\guid add\bin\Debug\guid add.exe
+D:\учеба\Елизавета\guid add\guid add\bin\Debug\guid add.pdb
+D:\учеба\Елизавета\guid add\guid add\bin\Debug\BouncyCastle.Crypto.dll
+D:\учеба\Елизавета\guid add\guid add\bin\Debug\Google.Protobuf.dll
+D:\учеба\Елизавета\guid add\guid add\bin\Debug\K4os.Compression.LZ4.dll
+D:\учеба\Елизавета\guid add\guid add\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\учеба\Елизавета\guid add\guid add\bin\Debug\K4os.Hash.xxHash.dll
+D:\учеба\Елизавета\guid add\guid add\bin\Debug\MySql.Data.dll
+D:\учеба\Елизавета\guid add\guid add\bin\Debug\System.Buffers.dll
+D:\учеба\Елизавета\guid add\guid add\bin\Debug\System.IO.Pipelines.dll
+D:\учеба\Елизавета\guid add\guid add\bin\Debug\System.Memory.dll
+D:\учеба\Елизавета\guid add\guid add\bin\Debug\System.Numerics.Vectors.dll
+D:\учеба\Елизавета\guid add\guid add\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\учеба\Елизавета\guid add\guid add\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\учеба\Елизавета\guid add\guid add\bin\Debug\BouncyCastle.Crypto.xml
+D:\учеба\Елизавета\guid add\guid add\bin\Debug\Google.Protobuf.pdb
+D:\учеба\Елизавета\guid add\guid add\bin\Debug\Google.Protobuf.xml
+D:\учеба\Елизавета\guid add\guid add\bin\Debug\K4os.Compression.LZ4.xml
+D:\учеба\Елизавета\guid add\guid add\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\учеба\Елизавета\guid add\guid add\bin\Debug\K4os.Hash.xxHash.xml
+D:\учеба\Елизавета\guid add\guid add\bin\Debug\MySql.Data.xml
+D:\учеба\Елизавета\guid add\guid add\bin\Debug\System.Buffers.xml
+D:\учеба\Елизавета\guid add\guid add\bin\Debug\System.IO.Pipelines.xml
+D:\учеба\Елизавета\guid add\guid add\bin\Debug\System.Memory.xml
+D:\учеба\Елизавета\guid add\guid add\bin\Debug\System.Numerics.Vectors.xml
+D:\учеба\Елизавета\guid add\guid add\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\учеба\Елизавета\guid add\guid add\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\учеба\Елизавета\guid add\guid add\obj\Debug\MainWindow.baml
+D:\учеба\Елизавета\guid add\guid add\obj\Debug\guid add.g.resources
+D:\учеба\Елизавета\guid add\guid add\obj\Debug\guid_add.Properties.Resources.resources
+D:\учеба\Елизавета\guid add\guid add\obj\Debug\guid add.csproj.GenerateResource.cache
+D:\учеба\Елизавета\guid add\guid add\obj\Debug\guid add.csproj.CoreCompileInputs.cache
+D:\учеба\Елизавета\guid add\guid add\obj\Debug\guid add.csproj.CopyComplete
+D:\учеба\Елизавета\guid add\guid add\obj\Debug\guid add.exe
+D:\учеба\Елизавета\guid add\guid add\obj\Debug\guid add.pdb
+D:\учеба\диплом\Снова пишем диплом\guid add\guid add\bin\Debug\guid add.exe.config
+D:\учеба\диплом\Снова пишем диплом\guid add\guid add\bin\Debug\guid add.exe
+D:\учеба\диплом\Снова пишем диплом\guid add\guid add\bin\Debug\guid add.pdb
+D:\учеба\диплом\Снова пишем диплом\guid add\guid add\bin\Debug\BouncyCastle.Crypto.dll
+D:\учеба\диплом\Снова пишем диплом\guid add\guid add\bin\Debug\Google.Protobuf.dll
+D:\учеба\диплом\Снова пишем диплом\guid add\guid add\bin\Debug\K4os.Compression.LZ4.dll
+D:\учеба\диплом\Снова пишем диплом\guid add\guid add\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\учеба\диплом\Снова пишем диплом\guid add\guid add\bin\Debug\K4os.Hash.xxHash.dll
+D:\учеба\диплом\Снова пишем диплом\guid add\guid add\bin\Debug\MySql.Data.dll
+D:\учеба\диплом\Снова пишем диплом\guid add\guid add\bin\Debug\System.Buffers.dll
+D:\учеба\диплом\Снова пишем диплом\guid add\guid add\bin\Debug\System.IO.Pipelines.dll
+D:\учеба\диплом\Снова пишем диплом\guid add\guid add\bin\Debug\System.Memory.dll
+D:\учеба\диплом\Снова пишем диплом\guid add\guid add\bin\Debug\System.Numerics.Vectors.dll
+D:\учеба\диплом\Снова пишем диплом\guid add\guid add\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\учеба\диплом\Снова пишем диплом\guid add\guid add\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\учеба\диплом\Снова пишем диплом\guid add\guid add\bin\Debug\BouncyCastle.Crypto.xml
+D:\учеба\диплом\Снова пишем диплом\guid add\guid add\bin\Debug\Google.Protobuf.pdb
+D:\учеба\диплом\Снова пишем диплом\guid add\guid add\bin\Debug\Google.Protobuf.xml
+D:\учеба\диплом\Снова пишем диплом\guid add\guid add\bin\Debug\K4os.Compression.LZ4.xml
+D:\учеба\диплом\Снова пишем диплом\guid add\guid add\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\учеба\диплом\Снова пишем диплом\guid add\guid add\bin\Debug\K4os.Hash.xxHash.xml
+D:\учеба\диплом\Снова пишем диплом\guid add\guid add\bin\Debug\MySql.Data.xml
+D:\учеба\диплом\Снова пишем диплом\guid add\guid add\bin\Debug\System.Buffers.xml
+D:\учеба\диплом\Снова пишем диплом\guid add\guid add\bin\Debug\System.IO.Pipelines.xml
+D:\учеба\диплом\Снова пишем диплом\guid add\guid add\bin\Debug\System.Memory.xml
+D:\учеба\диплом\Снова пишем диплом\guid add\guid add\bin\Debug\System.Numerics.Vectors.xml
+D:\учеба\диплом\Снова пишем диплом\guid add\guid add\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\учеба\диплом\Снова пишем диплом\guid add\guid add\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\учеба\диплом\Снова пишем диплом\guid add\guid add\obj\Debug\guid add.csproj.AssemblyReference.cache
+D:\учеба\диплом\Снова пишем диплом\guid add\guid add\obj\Debug\guid add.csproj.SuggestedBindingRedirects.cache
+D:\учеба\диплом\Снова пишем диплом\guid add\guid add\obj\Debug\MainWindow.g.cs
+D:\учеба\диплом\Снова пишем диплом\guid add\guid add\obj\Debug\App.g.cs
+D:\учеба\диплом\Снова пишем диплом\guid add\guid add\obj\Debug\guid add_MarkupCompile.cache
+D:\учеба\диплом\Снова пишем диплом\guid add\guid add\obj\Debug\guid add_MarkupCompile.lref
+D:\учеба\диплом\Снова пишем диплом\guid add\guid add\obj\Debug\MainWindow.baml
+D:\учеба\диплом\Снова пишем диплом\guid add\guid add\obj\Debug\guid add.g.resources
+D:\учеба\диплом\Снова пишем диплом\guid add\guid add\obj\Debug\guid_add.Properties.Resources.resources
+D:\учеба\диплом\Снова пишем диплом\guid add\guid add\obj\Debug\guid add.csproj.GenerateResource.cache
+D:\учеба\диплом\Снова пишем диплом\guid add\guid add\obj\Debug\guid add.csproj.CoreCompileInputs.cache
+D:\учеба\диплом\Снова пишем диплом\guid add\guid add\obj\Debug\guid add.csproj.CopyComplete
+D:\учеба\диплом\Снова пишем диплом\guid add\guid add\obj\Debug\guid add.exe
+D:\учеба\диплом\Снова пишем диплом\guid add\guid add\obj\Debug\guid add.pdb
