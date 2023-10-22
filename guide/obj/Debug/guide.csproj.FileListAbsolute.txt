@@ -1,0 +1,16 @@
+D:\учеба\Елизавета\guide\guide\bin\Debug\guide.exe.config
+D:\учеба\Елизавета\guide\guide\bin\Debug\guide.exe
+D:\учеба\Елизавета\guide\guide\bin\Debug\guide.pdb
+D:\учеба\Елизавета\guide\guide\obj\Debug\guide.csproj.AssemblyReference.cache
+D:\учеба\Елизавета\guide\guide\obj\Debug\guide.csproj.SuggestedBindingRedirects.cache
+D:\учеба\Елизавета\guide\guide\obj\Debug\MainWindow.g.cs
+D:\учеба\Елизавета\guide\guide\obj\Debug\App.g.cs
+D:\учеба\Елизавета\guide\guide\obj\Debug\guide_MarkupCompile.cache
+D:\учеба\Елизавета\guide\guide\obj\Debug\guide_MarkupCompile.lref
+D:\учеба\Елизавета\guide\guide\obj\Debug\MainWindow.baml
+D:\учеба\Елизавета\guide\guide\obj\Debug\guide.g.resources
+D:\учеба\Елизавета\guide\guide\obj\Debug\guide.Properties.Resources.resources
+D:\учеба\Елизавета\guide\guide\obj\Debug\guide.csproj.GenerateResource.cache
+D:\учеба\Елизавета\guide\guide\obj\Debug\guide.csproj.CoreCompileInputs.cache
+D:\учеба\Елизавета\guide\guide\obj\Debug\guide.exe
+D:\учеба\Елизавета\guide\guide\obj\Debug\guide.pdb
